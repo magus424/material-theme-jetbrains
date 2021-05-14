@@ -32,15 +32,11 @@ This is a port of the famous [Material Theme](https://github.com/equinusocio/vsc
 
 ----
 
-[![GitHub issues](https://img.shields.io/github/issues/ChrisRM/material-theme-jetbrains.svg)](https://github.com/magus424/material-theme-jetbrains/issues) [![GitHub stars](https://img.shields.io/github/stars/magus424/material-theme-jetbrains.svg)](https://github.com/magus424/material-theme-jetbrains/stargazers)
-
+[![GitHub issues](https://img.shields.io/github/issues/magus424/material-theme-jetbrains.svg)](https://github.com/magus424/material-theme-jetbrains/issues) [![GitHub stars](https://img.shields.io/github/stars/magus424/material-theme-jetbrains.svg)](https://github.com/magus424/material-theme-jetbrains/stargazers)
 
 ![GitHub tag](https://img.shields.io/github/tag/magus424/material-theme-jetbrains.svg)
-![JetBrains IntelliJ Plugins](https://img.shields.io/jetbrains/plugin/v/8006-material-theme-ui.svg)
-
 
 ![Github All Releases](https://img.shields.io/github/downloads/magus424/material-theme-jetbrains/total.svg)
-![JetBrains IntelliJ plugins](https://img.shields.io/jetbrains/plugin/d/8006-material-theme-ui.svg?label=plugin%20downloads)
 
 
 ## Documentation:
