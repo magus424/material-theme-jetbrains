@@ -33,21 +33,15 @@ This is a port of the famous [Material Theme](https://github.com/equinusocio/vsc
 ----
 
 [![GitHub issues](https://img.shields.io/github/issues/ChrisRM/material-theme-jetbrains.svg)](https://github.com/ChrisRM/material-theme-jetbrains/issues) [![GitHub stars](https://img.shields.io/github/stars/ChrisRM/material-theme-jetbrains.svg)](https://github.com/ChrisRM/material-theme-jetbrains/stargazers)
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/ChrisRM/material-theme-jetbrains.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FChrisRM%2Fmaterial-theme-jetbrains)
 
 
-![GitHub tag](https://img.shields.io/github/tag/ChrisRM/material-theme-jetbrains.svg)
+![GitHub tag](https://img.shields.io/github/tag/magus424/material-theme-jetbrains.svg)
 ![JetBrains IntelliJ Plugins](https://img.shields.io/jetbrains/plugin/v/8006-material-theme-ui.svg)
 
 
-![Github All Releases](https://img.shields.io/github/downloads/ChrisRM/material-theme-jetbrains/total.svg)
+![Github All Releases](https://img.shields.io/github/downloads/magus424/material-theme-jetbrains/total.svg)
 ![JetBrains IntelliJ plugins](https://img.shields.io/jetbrains/plugin/d/8006-material-theme-ui.svg?label=plugin%20downloads)
 
-
-#### Plugin pages:
-
-<https://plugins.jetbrains.com/plugin/8006-material-theme-ui>
-<https://plugins.jetbrains.com/plugin/10044-atom-material-icons>
 
 ## Documentation:
 <https://www.material-theme.com>
@@ -71,12 +65,6 @@ Official page: [@MJetbrains](https://twitter.com/MJetbrains)
 Github: [@ChrisRM](https://github.com/chrisrm) [@Mallowigi](https://github.com/mallowigi)
 
 **Thanks to [@equinusocio](https://github.com/equinusocio) and his original [Material Theme](https://github.com/equinusocio/vsc-material-theme) for the inspiration.**
-
-# Contact
-You can contact us or ask questions via [Gitter](https://gitter.im/Material-Theme-Jetbrains/Lobby#) or our brand new
-[Slack community!](https://join.slack.com/t/material-theme-ui/shared_invite/zt-4w78iblt-cHXYRYERpuGNbD~TqsD8rg)
-
-Come say hello!
 
 ## Other portings
 
